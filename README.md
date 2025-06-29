@@ -91,4 +91,4 @@ Tune Prompts: Edit the prompt template cell to adjust reasoning style or context
 
 
 # Demo:
-![Demo](https://github.com/Umang-projects/Gemma-2B-ReAct-Playground./tree/main/Demo.png)
+![Demo](Demo.png)
