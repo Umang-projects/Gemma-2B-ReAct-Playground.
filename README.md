@@ -88,3 +88,7 @@ Gemma automatically sequences these cells, capturing the LLM’s thought and fin
 Add New Tools: Define a Python function with @tool decorator.
 Switch KB: Swap the lookup logic in the tool cell (e.g., replace with ChromaDB query).
 Tune Prompts: Edit the prompt template cell to adjust reasoning style or context.
+
+
+# Demo:
+![Demo](https://github.com/Umang-projects/Gemma-2B-ReAct-Playground./tree/main/Screenshot 2025-06-26 004842.png)
